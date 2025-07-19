@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishav Samanta</h1>
 <img width="1109" height="612" alt="download" src="https://github.com/user-attachments/assets/1a1f4e27-c8f8-4da5-b798-5538ca88719d" />
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">I'm a frontend developer with a passion for building clean, fast, and user-friendly web interfaces. I enjoy turning complex problems into simple, elegant solutions that deliver great user experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav-droid&label=Profile%20views&color=0e75b6&style=flat" alt="rishav-droid" /> </p>
 
