@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>Hi👋,I'm Rishav Samanta</h1> 
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="animated hello">
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="700" height="350" alt="animated hello">
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200"
 <br><br>
 <h3 align="center">I'm a frontend developer with a passion for building clean, fast, and user-friendly web interfaces. I enjoy turning complex problems into simple, elegant solutions that deliver great user experiences</h3>
