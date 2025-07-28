@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishav Samanta</h1>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+
 <img width="1109" height="612" alt="download" src="https://github.com/user-attachments/assets/1a1f4e27-c8f8-4da5-b798-5538ca88719d" />
 
 <h3 align="center">I'm a frontend developer with a passion for building clean, fast, and user-friendly web interfaces. I enjoy turning complex problems into simple, elegant solutions that deliver great user experiences</h3>
